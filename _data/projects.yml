@@ -4,6 +4,6 @@
   link: https://medium.com/bugbountywriteup/pentesting-an-iot-based-biometric-attendance-device-10c0efd69392
   google: https://medium.com/bugbountywriteup/pentesting-an-iot-based-biometric-attendance-device-10c0efd69392
   quote: >
-    Short overview of the project (optional)
+     A writeup of one of my engagement where I was tasked to pentest a Biometric Attendance Device. Thw writeup shows how I was able to achieve root by leveraging several misconfigurations on the device.
   description: | # this will include new lines to allow paragraphs
     A writeup of one of my engagement where I was tasked to pentest a Biometric Attendance Device. Thw writeup shows how I was able to achieve root by leveraging several misconfigurations on the device.
