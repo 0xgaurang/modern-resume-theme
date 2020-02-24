@@ -4,6 +4,12 @@
   link: https://medium.com/bugbountywriteup/pentesting-an-iot-based-biometric-attendance-device-10c0efd69392
   quote: >
      A writeup of one of my pentest engagements where I was tasked to pentest a Biometric Attendance Device. The writeup shows how I was able to achieve root by leveraging several misconfigurations on the device.
-  description: | # this will include new lines to allow paragraphs
+ 
+ - layout: top-middle
+  name: [Case Study] OAuth Misconfiguration leads to Account Takeover
+  link: https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b
+  quote: >
+     A writeup of one of my engagement where I was tasked to pentest a Biometric Attendance Device. The writeup shows how I was able to achieve root by leveraging several misconfigurations on the device.
+  
  
 
