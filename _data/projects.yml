@@ -1,8 +1,8 @@
 - layout: top-middle
-  name: Editorial Classifier
-  github: ameyakarnad/bloomberg_editorial_classifier
+  name: Pentesting an IOT based Biometric Attendance device
+  link: https://medium.com/bugbountywriteup/pentesting-an-iot-based-biometric-attendance-device-10c0efd69392
   quote: >
-    A Bloomberg Sponsored Capstone Project to classify news articles
+    A writeup of one of my pentest engagements where I was tasked to pentest a Biometric Attendance Device. The writeup shows how I was able to achieve root by leveraging several misconfigurations on the device.
   description: | # this will include new lines to allow paragraphs
     - Worked with unstructured news sources to build classifiers to identify editorial content for Bloomberg Terminal.
     - Developed traditional classification algorithms with text based features like n-grams, Parts of speech, Named entities etc.
@@ -10,9 +10,10 @@
     - Languages: Python(Pytorch, TensorFlow, spacy), R(ggplot)
 
 - layout: top-middle
-  name: Educational Recommendation System
+  name: [Case Study] OAuth Misconfiguration leads to Account Takeover
+  link: https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b
   quote: >
-    Recommendation system to recommend digital resources to students
+    A writeup of one of my engagement where I was tasked to pentest a Biometric Attendance Device. The writeup shows how I was able to achieve root by leveraging several misconfigurations on the device.
   description: | # this will include new lines to allow paragraphs
     - Developed a multi-platform database pipeline for physical and digital user behavior, and research content using AWS.
     - Built and evaluated a hybrid recommendation system on multiple digital learning platforms
