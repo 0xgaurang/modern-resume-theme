@@ -45,8 +45,8 @@ about_content: | # this will include new lines to allow paragraphs
  - Highly engaged and active at assessing the security of various organizations and open source projects.
 
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+ Projects Section
+ projects_title: Blog Posts 
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
