@@ -6,4 +6,4 @@
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    A writeup of one of my engagement where I was tasked to pentest a Biometric Attendance Device. Thw writeup shows how I was able to achieve root by leveraging several misconfigurations on the device.
