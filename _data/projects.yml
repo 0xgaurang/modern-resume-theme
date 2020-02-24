@@ -1,6 +1,6 @@
 # Project template
-- layout: top-middle
-  name: Project name
+- layout: top-left
+  name: Pentesting an IOT based Biometric Attendance device
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
