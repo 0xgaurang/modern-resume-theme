@@ -7,4 +7,4 @@
      A writeup of one of my engagement where I was tasked to pentest a Biometric Attendance Device. The writeup shows how I was able to achieve root by leveraging several misconfigurations on the device.
   description: | # this will include new lines to allow paragraphs
     A writeup of one of my engagement where I was tasked to pentest a Biometric Attendance Device. The writeup shows how I was able to achieve root by leveraging several misconfigurations on the device.
-    [hello][www.example.com]
+    [hello](www.example.com)
